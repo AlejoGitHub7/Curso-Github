@@ -36,7 +36,9 @@ body{
 }
 #post{
     background:#fff;
-    padding:1em
+    padding-top:1em;
+    padding-right:1em;
+    padding-left:1em;
 }    
 #footer{
     text-align: center;
